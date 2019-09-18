@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BuyTicket</string>
+    <string name="confirm_btn">confirm</string>
+    <string name="buy_ticket_txv">Please buy a ticket</string>
+    <string name="adult">full-price</string>
+    <string name="child">helf-price</string>
+    <string name="senior">Old</string>
+    <string name="ticket_num1">1 ticket</string>
+    <string name="ticket_num">2 tickets</string>
+    <string name="ticket_num3">3 tickets</string>
+    <string name="ticket_num4">4 tickets</string>
 </resources>
